@@ -1,6 +1,6 @@
 # python package with setup.py
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-examples/setup.py/master?filepath=example_notebook%2Fimport_mypackage.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/xtgz/setup/main?labpath=example_notebook%2Fimport_mypackage.ipynb)
 
 A Binder-compatible repo with a python package and a `setup.py` file.
 
